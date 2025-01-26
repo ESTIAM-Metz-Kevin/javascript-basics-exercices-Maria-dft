@@ -99,3 +99,4 @@ switch (choix) {
     default:
         console.log("Mh... Désolé aventurier, je ne comprends pas ce que tu souhaites. Refais ton choix ! 😕");
 }
+// Dernier programme vider la bourse 
