@@ -80,7 +80,7 @@ Demande avec `prompt` une quantité de potion de soin, et affiche ensuite dans l
 - Finalement, nous ne gardons pas cette nouvelle potion dans la liste. Supprime la en utilisant la méthode `pop`
 - Affiche la liste des potions mis à jour
 
-### Rangeons les informations de la potion de soin dans un objet 🧹
+##Rangeons les informations de la potion de soin dans un objet 🧹
 
 - Créé un objet pour stocker les informations d'une potion de soin, tu auras dans cet objet :
   - le nom de la potion
