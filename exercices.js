@@ -3,7 +3,7 @@ let number_potion_soin = 100;
 let prix_potion_soin = 10;
 let nom_sorcier = "Akana"; // Nom du sorcier
 
-console.log("Bienvenue dans mon humble boutique Aventurier. Que veux-tu savoir ? 🤔");
+cconsole.log("Bienvenue dans mon humble boutique Aventurier. Que veux-tu savoir ? 🤔");
 // Calcul du prix total d'une commande de potion 🪙
 let quantite_potion = parseInt(prompt("Combien de potions de soin souhaitez-vous acheter ?"));
 let prix_total = quantite_potion * prix_potion_soin;
@@ -100,3 +100,4 @@ switch (choix) {
         console.log("Mh... Désolé aventurier, je ne comprends pas ce que tu souhaites. Refais ton choix ! 😕");
 }
 // Dernier programme vider la bourse 
+// Lien GitHub : https://github.com/ESTIAM-Metz-Kevin/javascript-basics-exercices-Maria-dft
